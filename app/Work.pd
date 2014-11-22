@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><datamodel datamodelDbId="null">
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141664651425871" entityLocationX="399" entityLocationY="9" entityWidth="150" tableName="course"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141664678421007" entityLocationX="215" entityLocationY="215" entityWidth="150" tableName="scientificwork"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141664582764012" entityLocationX="24" entityLocationY="14" entityWidth="150" tableName="students"/>
+  <fieldsEntity entityHeight="200" entityIconified="false" entityId="141664644258631" entityLocationX="221" entityLocationY="7" entityWidth="150" tableName="groups"/>
+</datamodel>
